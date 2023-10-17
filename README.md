@@ -1,6 +1,12 @@
-## Desafio da DIO proposto pelo Felipão
+#  🗺 Desafio proposto por Felipão no curso de Lógica de programação em Javascript
 
-## Mais um projeto feito com sucesso!
+## Trabalhos concluídos neste repositório: 
 
-## Obrigado pela força!
+
+✅ Calculadora de Partidas Rankeadas
+
+✅ Classificador de Nível de Herói
+
+
+
 
