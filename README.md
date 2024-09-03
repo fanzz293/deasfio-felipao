@@ -2,7 +2,7 @@
 
 ### Trabalhos concluídos neste repositório: 
 
-✅ Calculadora de Partidas Rankeadas
+✅ [Calculadora de Partidas Rankeadas](https://github.com/fanzz293/desafio-felipao/blob/main/Escrevendo_as_classes_de_um_jogo.js)
 
 ✅ Classificador de Nível de Herói
 
