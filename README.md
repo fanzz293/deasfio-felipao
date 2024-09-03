@@ -1,4 +1,4 @@
-##  🗺 Desafio proposto por Felipão no curso de Lógica de programação em Javascript oferecido pela Digital Innovation One (DIO). 
+##  🗺 Desafio proposto por Felipão da DIO, referente ao curso de Lógica de programação em Javascript
 
 ### Trabalhos concluídos neste repositório: 
 
