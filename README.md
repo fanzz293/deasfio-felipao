@@ -1,4 +1,4 @@
-##  🗺 Desafio proposto por Felipão da DIO, referente ao curso de Lógica de programação em Javascript
+##  🗺 Desafio proposto por Felipão da DIO, referente a Bootcamp lógica de programação do zero em Javascript
 
 ### Trabalhos concluídos neste repositório: 
 
